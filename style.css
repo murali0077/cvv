@@ -1,0 +1,84 @@
+
+
+.Profile {
+    width: 150px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+  }
+  .Title {
+    background-color: rgb(32, 227, 29);
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .details {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .about {
+    background-color: rgb(96, 147, 189);
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 36px;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  .about {
+    transition-duration: 0.4s;
+  }
+
+  .about:hover {
+    background-color: #ffffff; /* Green */
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+      0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .contact {
+    background-color: rgb(96, 147, 189);
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 36px;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  .contact {
+    transition-duration: 0.4s;
+  }
+
+  .contact:hover {
+    background-color: #ffffff; /* Green */
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+      0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .skills {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .hobbies {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .p3 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
